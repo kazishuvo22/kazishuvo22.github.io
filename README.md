@@ -36,4 +36,4 @@
 <img align="left" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" />
 <img align="left" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624" />
 <br><br><br>
-<h4 align="center" color="yellow"><b>Thank You for Visiting!! :smile:</h4>
+<h4 align="center" color="yellow">Thank You for Visiting!! 😄</h4>
