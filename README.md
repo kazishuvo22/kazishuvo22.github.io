@@ -24,16 +24,16 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 <h2>Well, below most interests me !!!</h2>
-<img align="left" src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" />&nbsp;&nbsp;
-<img align="left" src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C" />&nbsp;&nbsp;
-<img align="left" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5" />&nbsp;&nbsp;
-<img align="left" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396" />&nbsp;&nbsp;
-<img align="left" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />&nbsp;&nbsp;
+<img align="left" src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" />&nbsp;
+<img align="left" src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C" />&nbsp;
+<img align="left" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5" />&nbsp;
+<img align="left" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396" />&nbsp;
+<img align="left" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />&nbsp;
 <img align="left" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" />&nbsp;&nbsp;
-<img align="left" src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC" />&nbsp;&nbsp;
-<img align="left" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL" />&nbsp;&nbsp;
-<img align="left" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032" />&nbsp;&nbsp;
-<img align="left" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" />&nbsp;&nbsp;
-<img align="left" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624" />&nbsp;&nbsp;
+<img align="left" src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC" />&nbsp;
+<img align="left" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL" />&nbsp;
+<img align="left" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032" />&nbsp;
+<img align="left" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" />&nbsp;
+<img align="left" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624" />&nbsp;
 <br><br><br>
 <h4 align="center" color="yellow">Thank You for Visiting!! 😄</h4>
