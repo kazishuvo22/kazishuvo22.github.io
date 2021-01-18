@@ -1,8 +1,6 @@
 <html>
- <head>
-  <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://github.com/kazishuvo22?tab=repositories">Home</a></h1>
+ <head>    
+<h1 align="right"><a href="https://github.com/kazishuvo22?tab=repositories">All Repositories</a></h1>
 <h2 align="center">Hello there! My name is Kamruzzman Shuvo. 👋🤓</h2>
 </head>
 
