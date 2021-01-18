@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Open Source Project Development 
-- 📫 You can reach at: parthpandyappp@gmail.com 
+- 📫 You can reach at: kazishuvomain@gmail.com
 - ⚡ Fun fact: Caffeine helps me Code...☕
 <br>
 <br>
