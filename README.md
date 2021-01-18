@@ -13,11 +13,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/code.gif?raw=true" width="500" height="280" />
  
-<li>-🌱 I’m currently learning Full Stack Development </li>
-<li>-👯 I’m looking to collaborate on any cool Project </li>
-<li>-🤔 I’m looking for help with Open Source Project Development  </li>
-<li>-📫 You can reach at: kazishuvomain@gmail.com </li>
-<li>-⚡ Fun fact: Caffeine helps me Code...☕ </li>
+<li>🌱 I’m currently learning Full Stack Development </li>
+<li>👯 I’m looking to collaborate on any cool Project </li>
+<li>🤔 I’m looking for help with Open Source Project Development  </li>
+<li>📫 You can reach at: kazishuvomain@gmail.com </li>
+<li>⚡ Fun fact: Caffeine helps me Code...☕ </li>
 <br>
 <br>
 
