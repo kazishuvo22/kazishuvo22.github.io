@@ -13,7 +13,7 @@
 <li>🌱 I’m currently learning Full Stack Development </li>
 <li>👯 I’m looking to collaborate on any cool Project </li>
 <li>🤔 I’m looking for help with Open Source Project <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development  </li>
-<li>📫 You can reach at: <b> <color="orange">kazishuvomain@gmail.com</color></b> </li>
+<li>📫 You can reach at: <b><i>kazishuvomain@gmail.com</i></b> </li>
 <li>⚡ Fun fact: Caffeine helps me Code...☕ </li>
 <br> <br> <br> <br>
 
