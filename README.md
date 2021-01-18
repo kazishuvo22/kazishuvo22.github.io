@@ -13,17 +13,18 @@
 
 <img align="right" alt="GIF" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/code.gif?raw=true" width="500" height="320" />
 
-- 🌱 I’m currently learning Full Stack Development 
-- 👯 I’m looking to collaborate on any cool Project
-- 🤔 I’m looking for help with Open Source Project Development 
-- 📫 You can reach at: kazishuvomain@gmail.com
-- ⚡ Fun fact: Caffeine helps me Code...☕
+<li> 
+<ul>-🌱 I’m currently learning Full Stack Development </ul>
+<ul>-👯 I’m looking to collaborate on any cool Project </ul>
+<ul>-🤔 I’m looking for help with Open Source Project Development  </ul>
+<ul>-📫 You can reach at: kazishuvomain@gmail.com </ul>
+<ul>-⚡ Fun fact: Caffeine helps me Code...☕ </ul>
 <br>
 <br>
 
-## Activity & stats
-![Kamruzzman Shuvo's Github Stats](https://github-readme-stats.vercel.app/api?username=kazishuvo22&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazishuvo22&layout=compact)](https://github.com/kazishuvo22)
+<h2> Activity & stats </h2>
+<a href="https://github-readme-stats.vercel.app/api?username=kazishuvo22&show_icons=true&theme=tokyonight"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kazishuvo22&layout=compact"></a>
 
 ## Well, below most interests me !!!
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
