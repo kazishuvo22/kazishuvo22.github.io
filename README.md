@@ -12,29 +12,29 @@
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/code.gif?raw=true" width="500" height="320" />
-
-<li> 
-<ul>-🌱 I’m currently learning Full Stack Development </ul>
-<ul>-👯 I’m looking to collaborate on any cool Project </ul>
-<ul>-🤔 I’m looking for help with Open Source Project Development  </ul>
-<ul>-📫 You can reach at: kazishuvomain@gmail.com </ul>
-<ul>-⚡ Fun fact: Caffeine helps me Code...☕ </ul>
+ 
+<li>-🌱 I’m currently learning Full Stack Development </li>
+<li>-👯 I’m looking to collaborate on any cool Project </li>
+<li>-🤔 I’m looking for help with Open Source Project Development  </li>
+<li>-📫 You can reach at: kazishuvomain@gmail.com </li>
+<li>-⚡ Fun fact: Caffeine helps me Code...☕ </li>
 <br>
 <br>
 
 <h2> Activity & stats </h2>
-<a href="https://github-readme-stats.vercel.app/api?username=kazishuvo22&show_icons=true&theme=tokyonight"></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kazishuvo22&layout=compact"></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kazishuvo22&show_icons=true&theme=tokyonight" height="190" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazishuvo22&layout=compact" height="190" />
+<br><br><br><br><br><br><br><br><br><br>
 
-## Well, below most interests me !!!
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+<h2>Well, below most interests me !!!</h2>
+<img align="left" src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" />
+<img align="left" src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C" />
+<img align="left" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5" />
+<img align="left" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396" />
+<img align="left" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" />
+<img align="left" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" />
+<img align="left" src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC" />
+<img align="left" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL" />
+<img align="left" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032" />
+<img align="left" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" />
+<img align="left" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624" />
