@@ -39,7 +39,5 @@
 <img align="left" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032" />
 <img align="left" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" />
 <img align="left" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624" />
-
-</div>
 </body>
 </html>
