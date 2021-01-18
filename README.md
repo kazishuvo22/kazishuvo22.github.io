@@ -9,6 +9,14 @@
 <a href="https://instagram.com/kazi__shuvo"><img height="30" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kamruzzman-shuvo-60ba30144/"><img height="30" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/linkedin.png?raw=true"></a>
 
+<img align="right" alt="GIF" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/code.gif?raw=true" width="500" height="320" />
+
+- 🌱 I’m currently learning Full Stack Development 
+- 👯 I’m looking to collaborate on any cool Project
+- 🤔 I’m looking for help with Open Source Project Development 
+- 📫 You can reach at: parthpandyappp@gmail.com 
+- ⚡ Fun fact: Caffeine helps me Code...☕
+
 ## Activity & stats
 ![Kamruzzman Shuvo's Github Stats](https://github-readme-stats.vercel.app/api?username=kazishuvo22&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazishuvo22&layout=compact)](https://github.com/kazishuvo22)
