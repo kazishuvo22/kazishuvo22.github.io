@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/code.gif?raw=true" width="500" height="280" />
  
 <li>-🌱 I’m currently learning Full Stack Development </li>
 <li>-👯 I’m looking to collaborate on any cool Project </li>
