@@ -1,11 +1,14 @@
+<html>
+ <head>
 <h2 align="center">Hello there! My name is Kamruzzman Shuvo. 👋🤓</h2>
+</head>
 
 <p align='center'>
 <a href="https://facebook.com/kshuvo22"><img height="30" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/kazishuvo22"><img height="30" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/kazi__shuvo"><img height="30" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kamruzzman-shuvo-60ba30144/"><img height="30" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/linkedin.png?raw=true"></a>
-
+<body>
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/kazishuvo22/kazishuvo22/blob/master/icon/code.gif?raw=true" width="500" height="280" />
@@ -35,3 +38,6 @@
 <img align="left" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032" />
 <img align="left" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" />
 <img align="left" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624" />
+
+</body>
+</html>
