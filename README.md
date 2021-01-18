@@ -2,7 +2,7 @@
  <head>
   <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://kazishuvo22.github.io/">Home</a></h1>
+      <h1><a href="https://github.com/kazishuvo22?tab=repositories">Home</a></h1>
 <h2 align="center">Hello there! My name is Kamruzzman Shuvo. 👋🤓</h2>
 </head>
 
@@ -42,5 +42,6 @@
 <img align="left" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF" />
 <img align="left" src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624" />
 
+</div>
 </body>
 </html>
